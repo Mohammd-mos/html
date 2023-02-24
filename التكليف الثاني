@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <DIv>
+        <H1> FLYBOX</H1>
+        <P> شركة متخصصة بالشحن الدولي والبيع بالتجزئة من المواقع التركية </P>
+    </DIv>
+    <div>
+        <h2> مركز التجميع</h2>
+        <p> يمكنكم الشراء من اي موقع تركي في تركيا بانفسكم</p>
+        <h3> المواقع التركية</h3>
+        <p>يمكنكم التسوق من المواقع التركية</p>
+        <hr>
+        <h3> المواقع البريطانية</h3>
+        <p>يمكنكم التسوق من المواقع البريطانية</p>
+        <hr>
+        <h3> المواقع الاجنبية</h3>
+        <p>يمكنكم التسوق من المواقع الاجنبية</p>
+        <hr>
+
+    </div>
+</body>
+</html>
