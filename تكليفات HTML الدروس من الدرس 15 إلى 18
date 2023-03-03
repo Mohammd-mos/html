@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<Table border="2" cellpadding="5" width="1500" hight="1700">
+    <CAption> THE KING</CAption>
+    <tr>
+       <th >groub</th>
+       <th>avatar</th>
+       <th>name</th>
+       <th>Emaıl</th>
+       <th>character</th>
+       <th>profıle</th>
+       
+
+    </tr>
+  <TR>
+    <td rowspan="2">nenja</td>
+    <td><img src="home/Screenshot 2022-07-16 014353.jpg" alt="" height="40" width="40"></td>
+    <td>mohammd <br> almosly</td>
+    <td>01@mm.sa <hr>02@nn.sa</td>
+    <td>&COPY;</td>
+    <td><a href="https://www.adwhitlojistik.com/" target="_blank">adwit.com</a> </td>
+  </TR>
+  <tr>
+   
+    <td><img src="home/Screenshot 2022-07-16 014353.jpg" alt="" height="40" width="40"></td>
+    <td>noor almosly</td>
+    <td>s@nn.com</td>
+    <td>&trade;</td>
+    <td><a href="https://www.adwhitlojistik.com/" target="_blank">adwit.com</a> </td>
+  </tr>
+  <tr>
+    <td>monsters</td>
+    <td><img src="home/Screenshot 2022-07-16 014353.jpg" alt="" height="40" width="40"></td>
+    <td>jood almosly</td>
+    <td>s@nn.com</td>
+    <td>&reg;</td>
+    <td><a href="https://www.adwhitlojistik.com/" target="_blank">adwit.com</a> </td>
+  </tr>
+<tfoot>
+    <td colspan="5">total members</td>
+    <td>3</td>
+</tfoot>
+</Table>
+</body>
+</html>
