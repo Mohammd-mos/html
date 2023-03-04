@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video controls muted poster="home/1623153792742695833-7571.jpg" height="160" width="160">
+        <source src="home/video/WhatsApp Video 2022-12-12 at 18.34.38.mp4" type="video/mp4">
+        <source src="home/video/WhatsApp Video 2022-12-12 at 18.34.38.mpeg" type="video/mpeg">
+        <source src="home/video/WhatsApp Video 2022-12-12 at 18.34.38.ogg" type="video/ogg">
+        <track src="" kind="subtitles" srclang="it" label="italy">
+        <track src="" kind="subtitles" srclang="en" label="eng">
+    
+        this brows is not support
+    </video>
+</body>
+</html>
