@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>my web site</h1>
+        <ul>
+            <li>home</li>
+            <li>shop</li>
+            <li>contact us</li>
+            <li>about</li>
+            <li>cash</li>
+        </ul>
+    </header>
+    <nav>
+        <ul>
+            <li>image</li>
+            <li>video</li>
+            <li>sound</li>
+            <li>soical</li>
+            <li>desgin</li>
+        </ul>
+    </nav>
+    <section>
+    <article>
+        <h2>animal</h2>
+        <p>this world is very nice</p>
+        <figure>
+            <img src="home/1623153792742695833-7571.jpg" alt="" height="150" width="150">
+            <figcaption>اقرا المزيد</figcaption>
+            
+        </figure>
+    </article>
+    <hr>
+    <article>
+        <h2>animal</h2>
+        <p>this world is very nice</p>
+        <figure>
+            <img src="home/تصميم بدون عنوان (8).jpg" alt="" height="150" width="150">
+            <figcaption>اقرا المزيد</figcaption>
+            
+        </figure>
+    </article>
+    <hr>
+    <article>
+        <h2>animal</h2>
+        <p>this world is very nice</p>
+        <figure>
+            <img src="home/سيسسيي.jpg" alt="" height="150" width="150">
+            <figcaption>اقرا المزيد</figcaption>
+            
+        </figure>
+    </article>
+    <hr>
+    </section>
+    <aside>
+        <h3>Categories</h3>
+        <ul>
+            <li><a href="sound.html" target="_blank">اليسا</a></li>
+            <li><a href="video.html" target="_blank">video</a></li>
+            <li>زهير</li>
+            <li>طلال</li>
+            <li>مؤيد</li>
+        </ul>
+    </aside>
+    <hr>
+    <footer>
+        &COPY;Copyright 2023
+    </footer>
+</body>
+</html>
