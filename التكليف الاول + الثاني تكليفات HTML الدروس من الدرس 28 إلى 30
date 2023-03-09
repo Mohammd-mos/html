@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" >
+        <div>
+            <label >Username</label>
+            <input type="text" name="Username" autofocus minlength="5" maxlength="20" required> 
+        </div>
+        <div>
+            <label >Email</label>
+            <input type="Email" name="Email" value=" o@o.com" disabled > 
+        </div>
+        <div>
+            <label >Token</label>
+            <input type="text" name="Token" hidden value="b92f1fc2fce391ad7af633723afd3055"> 
+        </div>
+      
+        <br>
+        <h1>skills</h1>
+        <div>
+        
+            <input type="checkbox" id="1" name="skills" value="Planning"> 
+            <label for="1">Planning</label>
+        </div>
+        <div>
+          
+            <input type="checkbox" id="2" name="skills" value="Analysis">
+            <label for="2">Analysis</label>
+        </div>
+        <div>
+          
+            <input type="checkbox" id="3" checked name="skills" value="Search">
+            <label for="3">Search</label>
+        </div>
+        <div>
+         
+            <input type="checkbox" id="4" name="skills" value="Advanced Search,">
+            <label for="4">Advanced Search,</label>
+        </div>
+        <div>
+            
+            <input type="checkbox" id="5" name="skills" value="Logical Thinking">
+            <label for="5">Logical Thinking</label>
+        </div>
+        <DIv>
+            <input type="checkbox" id="6" name="skills" value="Problem Solving,">
+            <label for="6">Problem Solving,</label>
+        </DIv>
+        <br>
+        <h1>job</h1>
+        <div>
+            <input type="radio" id="11" name="job" value="Front-End Developer">
+            <label for="11">Front-End Developer</label>
+        </div>
+        <div>
+            <input type="radio" id="22" name="job" value="Back-End Developer,">
+            <label for="22">Back-End Developer,</label>
+        </div>
+        <div>
+            <input type="radio" id="33" name="job" value="Scrum Master">
+            <label for="33">Scrum Master</label>
+        </div>
+        <div>
+            <input type="radio" id="44" checked name="job" value="Project Manager">
+            <label for="44"> Project Manager</label>
+        </div>
+        <div>
+            <input type="radio" id="55" name="job" value="Business Analyst">
+            <label for="55">Business Analyst</label>
+        </div>
+        <div>
+            <input type="reset" value="Empty">
+            <input type="submit" value="Send">
+        </div>
+
+        
+
+
+    </form>
+</body>
+</html>
